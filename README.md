@@ -5,6 +5,7 @@ Temporal difference learning refers to a class of model-free reinforcement learn
 
 
 Sutton (1988): [Click Here](https://www.researchgate.net/publication/225264698_Learning_to_Predict_by_the_Method_of_Temporal_Differences)
+
 Replication Analysis: [Click Here](https://github.com/anhducvu-bot/Temporal_Difference_Experiment/blob/main/Temporal%20Difference%20Replication%20-%20Anh%20Vu.pdf)
 
 ## A small note: The bootstraping nature of TD method and the nature of expectation/happiness in human: 
